@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ClarityRead</title>
+  <link rel="stylesheet" href="ui-base.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="ClarityRead">
+      <div>
+        <div class="brand-title">ClarityRead</div>
+        <div class="brand-sub" id="siteHost">Distraction-free article reader</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="read">Reader</button>
+    <button class="tab-btn" data-tab="auto">Auto-Read</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-read">
+      <button class="btn btn-primary btn-block" id="toggleReaderBtn" style="padding:11px;font-size:13.5px;margin-bottom:10px;">📖 Open Reader View on This Page</button>
+
+      <div class="card">
+        <div class="card-title">Free Built-In Themes (All 4 Included Free)</div>
+        <div class="row">
+          <button class="btn btn-sm" data-theme="paper" style="flex:1;">Paper</button>
+          <button class="btn btn-sm" data-theme="sepia" style="flex:1;">Sepia</button>
+          <button class="btn btn-sm" data-theme="midnight" style="flex:1;">Midnight</button>
+          <button class="btn btn-sm" data-theme="oled" style="flex:1;">OLED</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Typography</div>
+        <div class="row">
+          <span>Font Family</span>
+          <select id="fontSelect" style="width:140px;">
+            <option value="serif">Editorial Serif</option>
+            <option value="sans">Clean Sans</option>
+            <option value="mono">Monospace</option>
+          </select>
+        </div>
+        <div class="row" style="margin-top:8px;"><span class="muted">Font Size</span><span id="fsVal">19px</span></div>
+        <input type="range" id="fsRange" min="14" max="28" value="19">
+        <div class="row"><span class="muted">Column Width</span><span id="widthVal">700px</span></div>
+        <input type="range" id="widthRange" min="540" max="920" step="20" value="700">
+        <div class="row" style="margin-top:8px;">
+          <span>Bionic Reading Highlight <span class="pro-tag">PRO</span></span>
+          <label class="switch"><input type="checkbox" id="bionicToggle"><span class="slider"></span></label>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-auto">
+      <div class="card">
+        <div class="card-title">Persistent Site Auto-Reader <span class="pro-tag">PRO</span></div>
+        <div class="muted" style="margin-bottom:8px;">Automatically keep Reader Mode active as you browse articles on these domains.</div>
+        <button class="btn btn-primary btn-sm btn-block" id="addAutoSiteBtn">+ Always Auto-Read Current Domain</button>
+      </div>
+      <div class="list" id="autoList"></div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
