@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Sade Makale Okuyucu",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 ücretsiz tema (Kağıt, Sepya, Gece, OLED), yazı tipi kontrolleri ve Markdown dışa aktarımlı dikkat dağıtmayan okuyucu modu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

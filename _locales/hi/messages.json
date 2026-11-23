@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — साफ़ लेख रीडर मोड",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 निःशुल्क थीम (पेपर, सेपिया, मिडनाइट, OLED), टाइपोग्राफी नियंत्रण और Markdown निर्यात वाला शांत रीडर मोड।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

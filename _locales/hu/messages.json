@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Tiszta Cikk-Olvasó Mód",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zavarmentes olvasómód 4 ingyenes témával (Papír, Szépia, Éjfél, OLED), tipográfiai vezérlőkkel és Markdown exporttal.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

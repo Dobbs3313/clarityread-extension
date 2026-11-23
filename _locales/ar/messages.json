@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — قارئ مقالات نقي",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "وضع قراءة خالٍ من المشتتات مع 4 سمات مجانية (ورق، سيبيا، منتصف الليل، OLED)، تحكم بالخط وتصدير Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

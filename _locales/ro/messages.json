@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Mod Lectură Curat",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mod lectură fără distrageri cu 4 teme gratuite (Hârtie, Sepia, Miezul nopții, OLED), controale font și export Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

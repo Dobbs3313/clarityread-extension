@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "ClarityRead — Clean Article Reader",
-  "short_name": "ClarityRead",
-  "description": "Distraction-free reader mode with 4 free themes (Paper, Sepia, Midnight, OLED), typography controls, and Markdown export.",
+  "name": "__MSG_appName__",
+  "short_name": "__MSG_appShortName__",
+  "description": "__MSG_appDescription__",
   "version": "1.0.0",
   "icons": {
     "16": "icons/icon16.png",
@@ -11,7 +11,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "ClarityRead",
+    "default_title": "__MSG_appShortName__",
     "default_popup": "popup.html"
   },
   "background": {
@@ -26,8 +26,11 @@
   ],
   "commands": {
     "toggle-reader": {
-      "suggested_key": { "default": "Alt+Shift+R" },
+      "suggested_key": {
+        "default": "Alt+Shift+R"
+      },
       "description": "Toggle ClarityRead distraction-free mode"
     }
-  }
+  },
+  "default_locale": "en"
 }

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — خواننده تمیز مقالات",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "حالت مطالعه بدون حواس‌پرتی با ۴ پوسته رایگان (کاغذ، سپیا، نیمه‌شب، OLED)، تنظیم تایپوگرافی و خروجی Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — 快適記事リーダー",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "広告等を消す集中リーダー。Paper・Sepia・Midnight・OLEDの4テーマ無料、文字調整、Markdown出力に対応。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

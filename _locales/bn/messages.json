@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — পরিচ্ছন্ন নিবন্ধ রিডার",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "৪টি ফ্রি থিম (পেপার, সেপিয়া, মিডনাইট, OLED), ফন্ট নিয়ন্ত্রণ ও Markdown এক্সপোর্টসহ মনোযোগী রিডার মোড।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

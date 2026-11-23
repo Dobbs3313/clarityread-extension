@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Чист читач чланака",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Режим читања без ометања са 4 бесплатне теме (Папир, Сепија, Поноћ, OLED), контролама фонта и извозом у Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

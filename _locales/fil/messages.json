@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Malinis na Article Reader",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Walang-abala na reader mode na may 4 libreng tema (Paper, Sepia, Midnight, OLED), font controls, at Markdown export.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

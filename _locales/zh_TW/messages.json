@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — 純淨文章閱讀器",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "無干擾閱讀模式，免費內建 4 款主題（紙張、復古棕、午夜、OLED 純黑），支援排版調整與 Markdown 匯出。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

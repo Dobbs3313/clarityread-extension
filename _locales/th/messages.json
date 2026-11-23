@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — โหมดอ่านบทความสะอาดตา",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "โหมดอ่านไร้สิ่งรบกวนพร้อม 4 ธีมฟรี (กระดาษ ซีเปีย มิดไนท์ OLED) ปรับฟอนต์และส่งออกเป็น Markdown",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

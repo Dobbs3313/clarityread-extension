@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — தெளிவான கட்டுரை வாசிப்பான்",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 இலவச தீம்கள் (காகிதம், செபியா, நள்ளிரவு, OLED), எழுத்துரு கட்டுப்பாடு மற்றும் Markdown ஏற்றுமதி கொண்ட வாசிப்பு முறை.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

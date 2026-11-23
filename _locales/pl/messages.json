@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Czysty Czytnik Artykułów",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tryb czytania bez rozpraszaczy z 4 darmowymi motywami (Papier, Sepia, Noc, OLED), regulacją tekstu oraz eksportem do Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

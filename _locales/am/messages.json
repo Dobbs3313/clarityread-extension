@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — ንጹህ የጽሁፍ አንባቢ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 ነጻ ገጽታዎች (ወረቀት፣ ሴፒያ፣ እኩለ ሌሊት፣ OLED)፣ የጽሁፍ መቆጣጠሪያ እና Markdown መላክ ያለው የማንበቢያ ሁነታ።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Trình Đọc Bài Viết Sạch",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Chế độ đọc không xao nhãng với 4 giao diện miễn phí (Giấy, Nâu cổ, Nửa đêm, OLED), tùy chỉnh chữ và xuất Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

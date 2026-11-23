@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — క్లీన్ ఆర్టికల్ రీడర్",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 ఉచిత థీమ్‌లు (పేపర్, సెపియా, మిడ్‌నైట్, OLED), ఫాంట్ నియంత్రణలు మరియు Markdown ఎగుమతితో రీడర్ మోడ్.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

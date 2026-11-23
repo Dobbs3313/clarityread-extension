@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — 깔끔한 기사 리더 모드",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "방해 요소 없는 읽기 모드: Paper·Sepia·Midnight·OLED 4가지 무료 테마, 글꼴 제어 및 Markdown 내보내기.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

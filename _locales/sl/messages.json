@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Čisti Bralnik Člankov",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Bralni način brez motenj s 4 brezplačnimi temami (Papir, Sepija, Polnoč, OLED), nadzorom pisave in izvozom v Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

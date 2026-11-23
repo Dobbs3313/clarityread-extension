@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — ಸ್ವಚ್ಛ ಲೇಖನ ರೀಡರ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 ಉಚಿತ ಥೀಮ್‌ಗಳು (ಪೇಪರ್, ಸೆಪಿಯಾ, ಮಿಡ್‌ನೈಟ್, OLED), ಮುದ್ರಣಕಲೆ ನಿಯಂತ್ರಣ ಮತ್ತು Markdown ರಫ್ತಿನೊಂದಿಗೆ ರೀಡರ್ ಮೋಡ್.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

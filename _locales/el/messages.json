@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Καθαρή Ανάγνωση Άρθρων",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Λειτουργία ανάγνωσης χωρίς περισπασμούς με 4 δωρεάν θέματα (Χαρτί, Σέπια, Μεσάνυχτα, OLED), τυπογραφία & εξαγωγή Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

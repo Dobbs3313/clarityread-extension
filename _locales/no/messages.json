@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Ren Artikkelleser",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Forstyrrelsesfri lesemodus med 4 gratis temaer (Papir, Sepia, Midnatt, OLED), typografikontroll og Markdown-eksport.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

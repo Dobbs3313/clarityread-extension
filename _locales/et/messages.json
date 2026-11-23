@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Puhas Artiklilugeja",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Segamatu lugemisrežiim 4 tasuta teemaga (Paber, Seepia, Kesköö, OLED), tüpograafia seadete ja Markdown ekspordiga.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

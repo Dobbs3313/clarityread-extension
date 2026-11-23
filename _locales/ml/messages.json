@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — ക്ലീൻ ആർട്ടിക്കിൾ റീഡർ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "4 സൗജന്യ തീമുകൾ (പേപ്പർ, സെപിയ, മിഡ്നൈറ്റ്, OLED), ഫോണ്ട് നിയന്ത്രണം, Markdown കയറ്റുമതി എന്നിവയുള്ള റീഡർ മോഡ്.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

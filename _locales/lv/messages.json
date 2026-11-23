@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Tīrs Rakstu Lasītājs",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lasīšanas režīms bez traucējumiem ar 4 bezmaksas motīviem (Papīrs, Sēpija, Pusnakts, OLED), drukas vadību un Markdown eksportu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

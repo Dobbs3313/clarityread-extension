@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Selkeä Lukutila",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Häiriötön lukutila 4 ilmaisella teemalla (Paperi, Seepia, Keskiyö, OLED), typografiasäädöillä ja Markdown-viennillä.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

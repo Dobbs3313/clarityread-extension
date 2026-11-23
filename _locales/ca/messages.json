@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Lector d’Articles Net",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mode de lectura sense distraccions amb 4 temes gratuïts (Paper, Sèpia, Mitjanit, OLED), tipografia i exportació Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

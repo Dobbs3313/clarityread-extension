@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Schone Artikellezer",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Afleidingsvrije leesmodus met 4 gratis thema’s (Papier, Sepia, Middernacht, OLED), typografieregeling en Markdown-export.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

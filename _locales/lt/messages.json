@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Švarus Straipsnių Skaitytuvas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Skaitymo režimas be trukdžių su 4 nemokamomis temomis (Popierius, Sepija, Vidurnaktis, OLED), šriftais ir Markdown eksportu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

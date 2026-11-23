@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ClarityRead — Pembaca Artikel Bersih",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ClarityRead",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mode baca bebas gangguan dengan 4 tema gratis (Kertas, Sepia, Tengah Malam, OLED), kontrol tipografi & ekspor Markdown.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

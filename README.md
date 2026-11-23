@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Just Read** (`dgmanlpmmkibanfdgjocnabmcaclkmod`, 200K+ users, 4.4★).
 
+- **Product Page:** https://arisparty.org/extensions/clarityread
+- **Privacy Policy:** https://arisparty.org/extensions/clarityread/privacy
+- **Support & Setup:** https://arisparty.org/extensions/clarityread/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Just Read (200K users, 3.24MB, basic themes gated behind Premium)
 - Includes all 4 polished light/sepia/dark themes completely FREE
@@ -40,4 +44,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/clarityread-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/clarityread-extension-v1.0.0.zip`.

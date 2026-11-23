@@ -3,8 +3,11 @@
 - **Title:** ClarityRead — Distraction-Free Reader Mode wi
 - **Category:** Make Chrome Yours -> Functionality & UI
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/clarityread-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/clarityread`
+- **Support URL:** `https://arisparty.org/extensions/clarityread/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/clarityread/privacy`
 
 ## Short Description (<= 132 chars)
 Distraction-Free Reader Mode with Free Themes & Markdown Export. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -23,6 +26,11 @@ Distraction-Free Reader Mode with Free Themes & Markdown Export. Fast, privacy-f
 - Bionic / Focus-line reading guide highlight
 - Inline text highlighting & saved reading notes
 - 1-click Markdown (.md) and clean HTML export
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/clarityread
+- Privacy policy: https://arisparty.org/extensions/clarityread/privacy
+- Support & setup: https://arisparty.org/extensions/clarityread/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/14AeVdb7F7BT51ZgTgg3607
